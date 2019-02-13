@@ -1,21 +1,15 @@
-#labpy03
+#labpy03                                                                                                                                 
 
-#Program Cara Mencari Bilangan Terbesar Dari 3 Bilangan
+#Program Cara Mencari Bilangan Terbesar Dari 3 Bilangan                                                                                 
 
-Membuat Program menggunakan Pycham
--Pertama buka aplikasi pycham
--setelah aplikasi kebuka pilih menu FILE paling atas sebelah kiri
+Membuat Program menggunakan Pycham                                                                                                       
+-Pertama buka aplikasi pycham                                                                                                           
+-setelah aplikasi kebuka pilih menu FILE paling atas sebelah kiri                                                                       
 -pilih menu NEW scratch file
 -pilih python
 setelah file baru terbuka tampilanya seperti berikut,
 ketik perintah: Print ("Nama Judul Program") , seperti gambar diatas.
 ![langkah 1](https://user-images.githubusercontent.com/46926559/52727948-e573cb00-2fe8-11e9-9b88-18094ee497b3.png)
-
-
-
-
-
-
 
 Selanjutnya ketik perintah a = (int(print("\nMasukan bilangan pertama"))
 -a : sebagai pariabel
